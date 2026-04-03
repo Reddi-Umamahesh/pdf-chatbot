@@ -1,0 +1,1 @@
+A simple AI-powered chatbot that allows users to ask questions based on the content of uploaded PDF documents. The chatbot uses a Retrieval-Augmented Generation (RAG) approach to fetch relevant information from PDFs and generate accurate answers.
